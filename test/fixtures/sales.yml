@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  transaction_id: MyString
+  price: 1
+  transfer_date: 2020-10-04 20:35:58
+  property_type: MyString
+  new_build: MyString
+  duration: MyString
+  ppd_status: MyString
+  record_status: MyString
+  property_id: one
+
+two:
+  transaction_id: MyString
+  price: 1
+  transfer_date: 2020-10-04 20:35:58
+  property_type: MyString
+  new_build: MyString
+  duration: MyString
+  ppd_status: MyString
+  record_status: MyString
+  property_id: two
